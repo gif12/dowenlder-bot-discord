@@ -6,7 +6,7 @@ from discord.ext import commands
 
 ### MODIFY FROM HERE ###
 
-TOKEN = "OTE3MTAyNTM0NzI2OTIyMzEy.Yaz0Sw.6_DcHcKhNVi6iwPM8lbdVOQIUCU"
+TOKEN = "OTE3MTAyNTM0NzI2OTIyMzEy.Yaz0Sw.LEU0wgBa4DQaBY_VZ_SscsfRGk"
 
 ### MODIFY UNTIL HERE ###
 
