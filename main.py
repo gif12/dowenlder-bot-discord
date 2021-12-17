@@ -6,7 +6,7 @@ from discord.ext import commands
 
 ### MODIFY FROM HERE ###
 
-TOKEN = "TOKEN HERE"
+TOKEN = "OTE3MTAyNTM0NzI2OTIyMzEy.Yaz0Sw.CuwnD8-6RW0DGPRjiBodnp6g7fo"
 
 ### MODIFY UNTIL HERE ###
 
@@ -53,7 +53,7 @@ def downloadReddit(url):
 	reddit.url = url
 	reddit.download()
 
-prefixes = ['sv ', 'Sv ']
+prefixes = ['-', '-']
 bot = commands.Bot(command_prefix=prefixes)
 bot.remove_command("help")
 
